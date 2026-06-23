@@ -1,4 +1,4 @@
-# Vehicle-Dashboard-Using-CAN-protocol# Vehicle Dashboard Using CAN Protocol
+# Vehicle-Dashboard-Using-CAN-protocol
 
 ## Overview
 This project implements a distributed Vehicle Dashboard System using the CAN (Controller Area Network) protocol with three LPC2129 microcontroller nodes. The system monitors temperature and fuel level and displays the information on a central dashboard.
@@ -118,7 +118,7 @@ LCD / Motor / LED
 - Data logging and wireless monitoring
 
 ## Author
-**Mohammad Rayyan Nabeel**
+**Mohamad Rayyan Nabeel**
 
 Electronics and Communication Engineering (ECE)
 
